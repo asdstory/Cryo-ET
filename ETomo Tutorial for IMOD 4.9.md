@@ -6,8 +6,11 @@ https://bio3d.colorado.edu/imod/doc/etomoTutorial.html
 ## II.  Etomo Setup
 
 ### To start Etomo, type:
+- [ ] ml IMOD #Loading IMOD in Biowulf
 
-   - [ ]     etomo
+[+] Loading IMOD 4.10.10 . Running with 16  CPUs 
+
+- [ ] etomo
 
 
 
