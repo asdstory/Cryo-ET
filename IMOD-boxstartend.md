@@ -1,5 +1,5 @@
 ### Extract particles from 3D volume:
 
 ```sh
-boxstartend -v 100 100 100 -objects -i Tomo003_full_rec.mrc -m ParticlePicking.mod -se volume 
+boxstartend -i Tomo003_full_rec.mrc -m ParticlePicking.mod -se volume -v 100 100 100 -objects 
 ```
